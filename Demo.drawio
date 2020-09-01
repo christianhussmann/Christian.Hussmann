@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T08:29:42.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="EFQurp5-Vs99lXB8qpSZ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T08:38:29.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="QO59ET3cgTIKH9fuzqve" version="13.6.6" type="github">
   <diagram id="YN2WPWSgnBQ95o5Tqr2F" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
             <mxPoint x="280" y="350" as="sourcePoint" />
             <mxPoint x="440" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="437" />
-              <mxPoint x="330" y="437" />
+              <mxPoint x="270" y="380" />
+              <mxPoint x="330" y="380" />
               <mxPoint x="330" y="289" />
             </Array>
           </mxGeometry>
@@ -161,10 +161,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WavvKe4zRhyl7Ri4G8ku-51" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="WavvKe4zRhyl7Ri4G8ku-50">
+        <mxCell id="WavvKe4zRhyl7Ri4G8ku-51" value="Published 1..*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="WavvKe4zRhyl7Ri4G8ku-50">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WavvKe4zRhyl7Ri4G8ku-52" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WavvKe4zRhyl7Ri4G8ku-50">
+        <mxCell id="WavvKe4zRhyl7Ri4G8ku-52" value="Publishers 1..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="WavvKe4zRhyl7Ri4G8ku-50">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
